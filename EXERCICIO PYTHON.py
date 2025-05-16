@@ -1,4 +1,4 @@
-
+# calcular litros da viagem
 tempo_d_viagem= float(input('digite quantas horas teve a viagem: '))
 velocidade= float(input('digite a velocidade aproximada: '))
 distancia= tempo_d_viagem * velocidade
