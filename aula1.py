@@ -1,3 +1,4 @@
+#IDADE
 idade = int(input('Qual a sua idade'))
 if idade >0 and idade <12:
     print('Você é criança')
