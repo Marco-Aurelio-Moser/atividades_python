@@ -1,3 +1,4 @@
+#SOMA DE 5 NÚMEROS
 num1 = int (input('digite o primeiro número: ')) 
 num2 = int (input('digite o segundo número: ')) 
 num3 = int (input('digite o terceiro número: ')) 
