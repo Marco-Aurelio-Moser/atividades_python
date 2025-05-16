@@ -1,3 +1,4 @@
+#SENHA
 #senha = str (input('Digite uma senha'))
 #confirmação = str (input('Confirme a senha'))
 #if confirmação == senha:
@@ -5,6 +6,7 @@
 #else:
    # print ('Acesso negado')
 
+#MÉDIA DAS NOTAS
 #nota1 = int (input('Digite a primeira nota'))
 #nota2 = int (input('Digite a segunda nota'))
 #nota3 = int (input('Digite a terceira nota'))
@@ -14,6 +16,7 @@
 #else:
  #   print('Reprovado')
 
+# NÚMERO EM ORDEM CONTRARIA
 #numero1 = int (input('Digite o primeiro numero'))
 #numero2 = int (input('Digite o segundo numero'))
 #numero3 = int (input('Digite o Terceiro numero'))
@@ -21,6 +24,7 @@
 #numeros.sort(reverse=True)
 #print('Os números em ordem decrescente são:', numeros)
 
+#LITROS GASTOS POR VIAGEM
 tempo_gasto = int (input('Quanto tempo durou a viagem (horas):'))
 velocidade_media = int (input('Qual foi a velocidade media da viagem(Em km/h):'))
 distancia = tempo_gasto * velocidade_media
