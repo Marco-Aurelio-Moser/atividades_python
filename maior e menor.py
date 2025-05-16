@@ -1,3 +1,4 @@
+#MAIOR NÚMERO E MENOR
 num1 = input(print('digite o primeiro número: ')) 
 num2 = input(print('digite o segundo número: ')) 
 num3 = input(print('digite o terceiro número: ')) 
