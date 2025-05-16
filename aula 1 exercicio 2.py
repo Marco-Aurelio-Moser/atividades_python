@@ -1,3 +1,4 @@
+#COMPARAÇÃO DE NUMEROS
 numero1 = int(input('Me diga um número'))
 numero2 = int(input('Me diga o segundo número'))
 if numero1 > numero2:
