@@ -389,3 +389,4 @@ def test_multiplas_tarefas_operacoes():
     # Verificar que as tarefas certas foram marcadas como concluídas
     assert client.get(f"/tarefas/{ids[0]}").json()["concluida"] == True
     assert client.get(f"/tarefas/{ids[2]}").json()["concluida"] == True
+
