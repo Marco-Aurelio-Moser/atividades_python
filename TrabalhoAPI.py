@@ -91,4 +91,5 @@ def deletar_tarefa(id: str):
         )
     
     del db_tarefas[id]
+
     return None
